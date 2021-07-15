@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //C# 기본 문법 시작
+// 시작은 Hello World부터
 namespace HelloCsharpWorld
 {
     class Program
