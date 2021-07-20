@@ -13,6 +13,7 @@ namespace CshaprBasicChaptor07_02
 {
     interface IEmployee
     {
+        //int a; // 인터페이스는 필드를 포함할 수 없음
         // interface에서 선언한 항목은 반드시 상속받을 경우 사용해야함
         string getName(); //중괄호 미사용, 실행가능부분 작성 불가
         void setName(string n);
