@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 // interface, abstract
-// Interface : 일종의 약속
+// Interface : 일종의 약속, 에러 방지 
 // method, property, event, indexer만 가능
 // 클래스에 상속가능, 인터페이스에도 상속가능
 // 정의 부분만 표현하고 구현 부분은 상속받은 클래스에서 구현
